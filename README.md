@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Ripan Rudra
 
-I'm a **BI Developer** with a strong focus on **Data warehousing, ETL pipelines, Azure, Databricks and analytics ready data models**.  
+I'm a **Analytics Engineer** with a strong focus on **Data warehousing, ETL pipelines, Azure, Databricks and analytics ready data models**.  
 I enjoy designing scalable data solutions that transform raw data into meaningful business insights.
 
 ---
