@@ -41,8 +41,19 @@ End-to-end data warehouse built using SQL Server with Bronze, Silver, and Gold l
 - Analytics ready Gold layer for reporting  
 
 🔗 **GitHub Repo:**  
-- https://github.com/RipanRudra/sql-data-warehouse-project
-- https://github.com/RipanRudra/databricks-lakehouse-medallion
+    https://github.com/RipanRudra/sql-data-warehouse-project
+
+### 🔹 Databricks Lakehouse – Enterprise Sales Analytics  
+End-to-end **Data Lakehouse** built on **Databricks** using the **Medallion Architecture (Bronze, Silver, Gold)**.
+
+- Data ingestion from **CRM & ERP CSV sources**
+- ELT-based processing using **Databricks notebooks & Jobs**
+- Data cleansing, standardization, and integration in Silver
+- **Analytics-ready Gold layer** with Star Schema modeling
+- End-to-end **data lineage, integration model, and documentation**
+
+🔗 **GitHub Repo:**  
+    https://github.com/RipanRudra/databricks-lakehouse-medallion
 
 ---
 
