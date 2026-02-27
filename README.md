@@ -1,12 +1,12 @@
 ## Hi there 👋
 # I'm Ripan Rudra
 
-I'm an **Analytics Engineer** with a strong focus on **Data warehousing, ETL pipelines, Azure, Databricks and analytics ready data models**.  
+I'm a data professional with a strong focus on **Data warehousing, ETL pipelines, Azure, Databricks and analytics ready data models**.  
 I enjoy designing scalable data solutions that transform raw data into meaningful business insights.
 
 ---
 
-## 🧠 What I Do
+## 🧠 Core Data Engineering Competencies
 
 - 🏗️ Design and build **modern data warehouses** using Medallion Architecture (Bronze, Silver, Gold) on cloud platforms  
 - 🔄 Develop scalable **ELT/ETL pipelines** using SQL, PySpark, and Azure Databricks for data ingestion and transformation  
@@ -68,7 +68,6 @@ End-to-end **Data Lakehouse** built on **Databricks** using the **Medallion Arch
 
 ## 🌱 Currently Learning
 
-- Advanced SQL optimization and query performance tuning  
 - Cloud based **ELT/ETL patterns** and modern data pipeline design  
 - **Data architecture principles** for scalable and analytics ready platforms  
 - **Analytics Engineering best practices** using tools like dbt  
